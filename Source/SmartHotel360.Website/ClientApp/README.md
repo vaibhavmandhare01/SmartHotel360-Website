@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/vaibhavmandhare90/WebAppAuction/_apis/build/status/vaibhavmandhare01.SmartHotel360-Website?branchName=master)](https://dev.azure.com/vaibhavmandhare90/WebAppAuction/_build/latest?definitionId=7&branchName=master)
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
